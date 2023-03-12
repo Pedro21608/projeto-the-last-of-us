@@ -71,13 +71,9 @@ body {
     transition: 0.2s ease-in-out;
 }
 
-.menu-lateral .icone2 {
-    width: 30px;
-    filter: invert(1);
-    transition: 0.2s ease-in-out;
+.menu-lateral .icone:hover {
+	transform: scale(1.2);
 }
-
-
 
 .carrossel {
     position: fixed;
